@@ -8,5 +8,7 @@ export const dark = {
     purpleBlue: "#4657ed",
     white: "#fff",
     secondaryGray: "#151618",
-    secondaryBlack: "#000000"
+    secondaryBlack: "#000000",
+
+    boxShadowHeader: "0 0 5px rgba(0, 0, 0, 0.5)"
 };
