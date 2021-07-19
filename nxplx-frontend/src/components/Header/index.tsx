@@ -49,6 +49,7 @@ const Header = connect(['isLoggedIn', 'isAdmin', 'build'], actions)(
                             <S.NavLink href="/dashboard">
                                 <S.Icon className="material-icons">assignment</S.Icon>
                             </S.NavLink>
+
                         ]}
                         <S.NavLink href="/profile">
                             <S.Icon className="material-icons">account_circle</S.Icon>
